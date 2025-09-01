@@ -6,6 +6,15 @@ Here, I consistently upload my **solutions to LeetCode problems** (Katas), with 
 
 ---
 
+# ☠️ Problems Set:
+
+## 🟢 Begin:
+
+- [Two Sum](./Beging/twosum/)
+
+> ⌚ Each day update 4 katas more.
+---
+
 ## 🧠 Why I'm Doing This
 
 The goal isn't just to grind through problems — it's to **truly understand** algorithms, patterns, and data structures, and to **document my learning** through both successes and failures.
@@ -38,6 +47,7 @@ This repo is more than just solutions — it's my **public learning journal**.
 ## 🔄 Repo Status
 
 This repository is constantly updated with:
+
 - ✅ New problem solutions
 - ❌ Mistakes and corrections
 - 💡 Notes and insights after solving (or failing)
