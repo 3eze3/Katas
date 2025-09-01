@@ -47,7 +47,7 @@ This repository is constantly updated with:
 
 ## 🌐 Let's Connect
 
-I'm sharing extra thoughts, notes, and coding tips on [Instagram](#) and other platforms as part of **Project ARCH**.  
+I'm sharing extra thoughts, notes, and coding tips on [Instagram](www.instagram.com/deeperdev/) and other platforms as part of **Project ARCH**.  
 Feel free to reach out, ask questions, or just say hi!
 
 > 🚀 Feel free to fork, follow, or use this repo as inspiration for your own learning path.
