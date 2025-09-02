@@ -1,4 +1,4 @@
-# **📘 LeetCode Kata Progress — Project ARCH**
+# **📘 LeetCode Kata Progress**
 
 This repository is part of my personal journey to become a **better and more thoughtful programmer**, under my long-term project called **ARCH**.
 
