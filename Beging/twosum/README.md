@@ -47,7 +47,7 @@ If the complement exists in the map, I’ve found the answer. Otherwise, I store
 
 ---
 
-## **Problem:**
+## **Problem Description:**
 
 ```md
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
