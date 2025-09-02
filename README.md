@@ -10,9 +10,21 @@ Here, I consistently upload my **solutions to LeetCode problems** (Katas), with 
 
 ## 🟢 Begin:
 
-- [Two Sum](./Beging/twosum/)
+```html
+<details>
+  <summary>Begin</summary>
+  <ul>
+    <li><a href="./Beging/twosum/">Two Sum<a></li>
+  </ul>
+  <br />
+  This is how you dropdown.
+</details>
+```
+
+<!-- - [Two Sum](./Beging/twosum/) -->
 
 > ⌚ Each day update 4 katas more.
+
 ---
 
 ## 🧠 Why I'm Doing This
