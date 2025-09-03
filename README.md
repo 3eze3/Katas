@@ -10,7 +10,6 @@ Here, I consistently upload my **solutions to LeetCode problems** (Katas), with 
 
 ## 🟢 Begin:
 
-```html
 <details>
   <summary>Begin</summary>
   <ul>
@@ -19,7 +18,6 @@ Here, I consistently upload my **solutions to LeetCode problems** (Katas), with 
   <br />
   This is how you dropdown.
 </details>
-```
 
 <!-- - [Two Sum](./Beging/twosum/) -->
 
